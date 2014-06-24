@@ -1,0 +1,4 @@
+2014-06-24 14:12:39,938 INFO  b.launcher.BrooklynLauncher [main]: Starting brooklyn web-console on loopback interface because no security config is set
+2014-06-24 14:12:51,672 INFO  b.launcher.BrooklynWebServer [main]: Started Brooklyn console at http://127.0.0.1:8081/, running classpath://brooklyn.war and []
+2014-06-24 14:12:51,672 INFO  b.launcher.BrooklynLauncher [main]: Persistence disabled
+2014-06-24 14:13:01,162 INFO  brooklyn.cli.Main [main]: Launched Brooklyn; now blocking to wait for cntrl-c or kill
